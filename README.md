@@ -15,7 +15,7 @@ This is a To-Do List application built using HTML, CSS, and JavaScript. It inclu
 ## Screenshots
 
 ![Login Page](Login-page.png)
-![Registration Page](Registration-page.png)
+![Registration Page](Registration-Page.png)
 ![To-Do List](ToDo-List.png)
 
 ## Technologies Used
