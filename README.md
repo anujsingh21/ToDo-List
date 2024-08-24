@@ -6,7 +6,7 @@
 
 This is a To-Do List application built using HTML, CSS, and JavaScript. It includes user authentication (login and registration), allowing users to manage their tasks efficiently. Users can add tasks with date and time, and also edit or delete tasks once completed. The application is designed to be simple and user-friendly.
 
-## Features
+## 💡Features
 
 - **User Authentication**: Register and log in to manage your tasks.
 - **Add Tasks**: Create tasks with a specified date and time.
@@ -15,19 +15,19 @@ This is a To-Do List application built using HTML, CSS, and JavaScript. It inclu
 - **Mark as Completed**: Check off tasks once they are completed.
 
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - **HTML**: Structure of the application.
 - **CSS**: Styling and layout.
 - **JavaScript**: Interactivity and functionality.
 - 
-## Screenshots
+## 📷 Screenshots
 
 ![Login Page](Login-page.png)
 ![Registration Page](Registration-Page.png)
 ![To-Do List](ToDo-List.png)
 
-## Usage
+## 🚀 Usage
 
 1. **Register**: 
    - Navigate to the registration page (`todo.html`).
